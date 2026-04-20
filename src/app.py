@@ -626,9 +626,12 @@ if submitted and user_input.strip():
     st.rerun()
 
 
+<<<<<<< HEAD
 # ─────────────────────────────────────────────
 # ESTADO — SEM API / SEM ARQUIVOS
 # ─────────────────────────────────────────────
+=======
+>>>>>>> 5e9c592 (feat: implement v1)
 if not api_ok:
     st.info("""
     **Para começar:**
